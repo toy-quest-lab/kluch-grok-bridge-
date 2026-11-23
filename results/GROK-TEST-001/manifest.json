@@ -1,0 +1,9 @@
+{
+  "id": "GROK-TEST-001",
+  "issue": 1,
+  "files": [
+    "results/GROK-TEST-001/report.md",
+    "results/GROK-TEST-001/manifest.json"
+  ],
+  "timestamp": "2026-11-23T08:33:47.369Z"
+}
